@@ -1,5 +1,5 @@
 ### 
-<h1 align="center">Hello World 👋, my name is Matt Noronha</h1>
+<h1 align="center">Hello visitor 👋, my name is Matt Noronha</h1>
 <h3 align="center">An enthusiastic and driven Developer from England, residing in Finland 🇫🇮.</h3>
 
 - 🔭 I’m currently working on **my portfolio, I'm updating it so it reflects more of who I am.**
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Ruby on Rails, Javascript, HTML5, CSS3, SQL, Git and my experiences coding so far.**
 
-- ⚡ Fun fact **I have 6 years experience as a teacher. Looking to bring my eye for detail, communication skills and ability to cater for a diverse range of needs and interests to tech! Now immersed in tech, learning React via a skills course following graduation from Le Wagon's Web Development bootcamp in July 2023**
+- ⚡ Fun fact **I have 6 years experience as a teacher. Looking to bring my eye for detail, communication skills and ability to cater for a diverse range of needs and interests to tech! Now immersed in tech, learning React via a skills course following graduation from Le Wagon's Web Development bootcamp in July 2023. Also learning Finnish in my spare time, which unfortunately is as complicated as coding.**
 
 <h3 align="left"> 📫 Connect with me: https://www.linkedin.com/in/mhdn/</h3>
 <p align="left">
