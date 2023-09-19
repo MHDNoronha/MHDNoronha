@@ -1,4 +1,10 @@
-### Hi there 👋
+### 
+🎓Graduated from Le Wagon's Web Development bootcamp in July 2023
+👨‍🏫6 years experience as a teacher, now bring my eye for detail, communication skills and ability to cater for a diverse range of needs and interests to tech!
+🎆See my biggest project so far https://github.com/nathansoussana/local-sports-club
+
+🏫Currently devising time to learn React, to sharpen Front End skills.
+
 
 <!--
 **MHDNoronha/MHDNoronha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
