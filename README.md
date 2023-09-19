@@ -1,12 +1,16 @@
 ### 
-<h1 align="center">Hello visitor 👋, my name is Matt Noronha</h1>
-<h3 align="center">An enthusiastic and driven Developer from England, residing in Finland 🇫🇮</h3>
+<h1 align="center">Hello World 👋, my name is Matt Noronha</h1>
+<h3 align="center">An enthusiastic and driven Developer from England, residing in Finland 🇫🇮.</h3>
+
+- 🔭 I’m currently working on **my portfolio, I'm updating it so it reflects more of who I am.**
 
 - 🌱 I’m currently learning **React and practising Javascript on Scrimba**
 
 - 👯 I’m looking to collaborate on **a project involving React ideally, as it is something I wish to improve on.**
 
 - 💬 Ask me about **Ruby on Rails, Javascript, HTML5, CSS3, SQL, Git and my experiences coding so far.**
+
+- 📫 How to reach me **https://www.linkedin.com/in/mhdn/**
 
 - ⚡ Fun fact **I have 6 years experience as a teacher. Looking to bring my eye for detail, communication skills and ability to cater for a diverse range of needs and interests to tech! Now immersed in tech, learning React via a skills course following graduation from Le Wagon's Web Development bootcamp in July 2023**
 
