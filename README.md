@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **my portfolio, I'm updating it so it reflects more of who I am.**
 
-- 🌱 I’m currently learning **React and practising Javascript on Scrimba**
+- 🌱 I’m currently learning **React and practising Javascript on Scrimba** and tutoring children how to code at Learn to Be.
 
 - 👯 I’m looking to collaborate on **a project involving React ideally, as it is something I wish to improve on.**
 
