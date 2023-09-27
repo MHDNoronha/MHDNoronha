@@ -1,5 +1,5 @@
 ### 
-<h1 align="center">Hello visitor 👋, my name is Matt Noronha</h1>
+<h1 align="center">Hello 👋, my name is Matt Noronha</h1>
 <h3 align="center">An enthusiastic and driven Developer from England, residing in Finland 🇫🇮.</h3>
 
 - 🔭 I’m currently working on **my portfolio, I'm updating it so it reflects more of who I am.**
